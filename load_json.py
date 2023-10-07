@@ -7,7 +7,7 @@ import json
 import datetime
 
 def process_json():
-    with open('taxi.jl') as f:
+    with open('taxi.jsonl') as f:
         sum = datetime.timedelta()
         count = 0
         for line in f:
