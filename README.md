@@ -21,6 +21,10 @@ jl stands for "json line" format, where each line in the text file is a json obj
 The goal of the exercise is to calculate the average ride time (dropoff time - pickup time)
 for the entire dataset.
 
+The taxi.csv file can be downloaded directly from (https://raw.githubusercontent.com/env3d/python-data-ingestion-basics/main/taxi.csv)[https://raw.githubusercontent.com/env3d/python-data-ingestion-basics/main/taxi.csv]
+
+The taxi.jl file can be downloaded directly from (https://raw.githubusercontent.com/env3d/python-data-ingestion-basics/main/taxi.jl)[https://raw.githubusercontent.com/env3d/python-data-ingestion-basics/main/taxi.jl]
+
 # load_csv.py
 
 This file contains annoated code to process taxi.csv file.  It presents 3 different
