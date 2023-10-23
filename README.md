@@ -11,7 +11,7 @@ presented below (with the exception of the pandas module).
 # Data files
 
 The best starting point is to look at the 2 data files we want to process, taxi.csv and
-taxi.jl.  They are the same dataset but in 2 different formats.  
+taxi.jsonl.  They are the same dataset but in 2 different formats.  
 
 csv stands for comma separated values where each line has a number of fields separated by 
 comma, with the first line being the header.
